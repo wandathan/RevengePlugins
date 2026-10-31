@@ -1,0 +1,11 @@
+{
+    "name": "NoReactions",
+    "description": "Hide reactions that are not yours on messages",
+    "authors": [
+        {
+            "name": "wand"
+        }
+    ],
+    "main": "src/index.ts",
+    "version": "1.0.0"
+}
